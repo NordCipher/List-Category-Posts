@@ -7,14 +7,6 @@ List Category Posts is a **[WordPress](http://wordpress.org) plugin** that allow
 Usage:
 `[catlist argument1=value1 argument2=value2]`
 
-Please visit the [plugin's page on WordPress.org](http://wordpress.org/extend/plugins/list-category-posts/) to find out more.
-
-# Would you like to help with the development?
-
-The evolution of this plugin wouldn't be possible without the help of [these awesome contributors](https://github.com/picandocodigo/List-Category-Posts/graphs/contributors). Special thanks to [Sophist](https://github.com/Sophist-UK), [bibz](https://github.com/bibz), [vacuus](https://github.com/vacuus), [zymeth25](https://github.com/zymeth25) for their contributions and hard work and [every other person](https://github.com/picandocodigo/List-Category-Posts/graphs/contributors) who's contributed to this plugin:+1:
-
-Sometimes Pull Request take a while for us to review, but we'll eventually get to all of them. If you open a PR, feel free to add your wordpress.org user so if it gets merged I can add you to the list of contributors in the plugin's readme file.
-
 # Development
 
 A Vagrantfile is provided to set up a box for WordPress development. You need [Vagrant](http://www.vagrantup.com/) installed on your computer.
@@ -78,18 +70,3 @@ __[GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)__
 ```
 List Category Posts
 
-Copyright (C) 2008-2020  Fernando Briano (email : fernando@picandocodigo.net)
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-```
